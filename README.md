@@ -2,8 +2,8 @@
 
 Hands-on blue-team practice and evidence, built while training for SOC/security support roles.
 
-🔗 **Public LetsDefend profile:** [add your public profile link here]
-🔗 **CV / LinkedIn:** [add links here]
+🔗 **Public LetsDefend profile:** 
+🔗 **CV / LinkedIn:** https://www.linkedin.com/feed/
 
 ---
 
