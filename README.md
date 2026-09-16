@@ -3,7 +3,7 @@
 Hands-on blue-team practice and evidence, built while training for SOC/security support roles.
 
 🔗 **Public LetsDefend profile:** 
-🔗 **CV / LinkedIn:** https://www.linkedin.com/feed/
+🔗 **CV / LinkedIn:** https://www.linkedin.com/in/abdulkadir-walid-shehu-/
 
 ---
 
