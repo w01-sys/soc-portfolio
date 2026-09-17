@@ -17,7 +17,8 @@ investigation practice, certifications, and how those skills map to real support
 
 | Certificate | Platform | Date |
 | --- | --- | --- |
-| SOC Fundamentals | LetsDefend | [add date] |
+| SOC Fundamentals | LetsDefend | 14 September 2026 |
+| First Line Support | ServiceDesk Simualtor | 21 August 2026 |
 
 See [`/certificates`](./certificates) for the files.
 
