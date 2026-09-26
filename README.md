@@ -32,7 +32,7 @@ reasoning only, no platform answer keys.
 | 01 | Phishing | e.g. True Positive | [case-studies/01-phishing-alert-investigation.md](./case-studies/01-phishing-alert-investigation.md) |
 | 02 | Brute Force | e.g. False Positive | [case-studies/02-brute-force-alert-investigation.md](./case-studies/02-brute-force-alert-investigation.md) |
 | 03 | Malware | e.g. True Positive | [case-studies/03-malware-alert-investigation.md](./case-studies/03-malware-alert-investigation.md) |
-
+| 04 | Hash Reputation Automation | N/A — Tooling | [case-studies/vt-hash-lookup-automation.md](./case-studies/vt-hash-lookup-automation.md) |
 See [`/case-studies/TEMPLATE.md`](./case-studies/TEMPLATE.md) for the format used.
 
 ## Skills → Role Mapping

@@ -1,3 +1,7 @@
 .DS_Store
 Thumbs.db
 *.tmp
+vt-env/
+*.csv
+vt-env/
+*.csv
