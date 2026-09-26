@@ -6,7 +6,7 @@ Manually checking file hashes against threat intelligence sources during
 triage is slow and doesn't scale past a handful of indicators. This project
 automates that step: a Python script takes a list of file hashes and checks
 each one against the VirusTotal v3 API, reporting whether it's known
-malicious, clean, or unseen — without an analyst having to paste hashes into
+malicious, clean, or unseen without an analyst having to paste hashes into
 a browser one at a time.
 
 ## Tools Used
@@ -47,7 +47,7 @@ API's rate limit (4 requests/minute) by pausing between batches, and handles
 missing records, rate-limit responses, and malformed hashes without crashing
 the run.
 
-The API key is never hardcoded — it's read from an environment variable at
+The API key is never hardcoded it's read from an environment variable at
 runtime:
 
 ```python
