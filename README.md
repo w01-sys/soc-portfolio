@@ -43,3 +43,6 @@ job requirements.
 ## Screenshots
 
 One summary dashboard screenshot showing overall activity — see [`/screenshots`](./screenshots).
+
+## Notes
+- [Terminal Command Journal](terminal-command-journal.md) — reference of commands used across this project, for macOS and Windows.
