@@ -2,7 +2,6 @@
 
 Hands-on blue-team practice and evidence, built while training for SOC/security support roles.
 
-🔗 **Public LetsDefend profile:** 
 🔗 **CV / LinkedIn:** https://www.linkedin.com/in/abdulkadir-walid-shehu-932093236/
 
 ---
@@ -33,6 +32,7 @@ reasoning only, no platform answer keys.
 | 02 | Brute Force | e.g. False Positive | [case-studies/02-brute-force-alert-investigation.md](./case-studies/02-brute-force-alert-investigation.md) |
 | 03 | Malware | e.g. True Positive | [case-studies/03-malware-alert-investigation.md](./case-studies/03-malware-alert-investigation.md) |
 | 04 | Hash Reputation Automation | N/A — Tooling | [case-studies/vt-hash-lookup-automation.md](./case-studies/vt-hash-lookup-automation.md) |
+
 See [`/case-studies/TEMPLATE.md`](./case-studies/TEMPLATE.md) for the format used.
 
 ## Skills → Role Mapping
@@ -45,4 +45,5 @@ job requirements.
 One summary dashboard screenshot showing overall activity — see [`/screenshots`](./screenshots).
 
 ## Notes
-- [Terminal Command Journal](./terminal-command-journal.md) — reference of commands used across this project, for macOS and Windows.
+
+[`/Terminal Command Journal`](./terminal-command-journal.md) — reference of commands used across this project, for macOS and Windows.
