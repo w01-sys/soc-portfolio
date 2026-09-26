@@ -2,7 +2,7 @@
 
 Hands-on blue-team practice and evidence, built while training for SOC/security support roles.
 
-🔗 **CV / LinkedIn:** https://www.linkedin.com/in/abdulkadir-walid-shehu-932093236/
+🔗 **CV / LinkedIn:** https://www.linkedin.com/in/abdulkadir-shehu-932093236/
 
 ---
 
